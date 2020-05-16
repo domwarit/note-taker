@@ -1,0 +1,25 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domwarit/note-taker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domwarit/note-taker/issues"
+  },
+  "homepage": "https://github.com/domwarit/note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "util": "^0.12.3",
+    "uuid": "^3.4.0"
+  }
+}
